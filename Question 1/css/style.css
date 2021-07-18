@@ -1,0 +1,24 @@
+﻿.container {
+    background-color: lightgoldenrodyellow;
+    margin-top: 40px;
+}
+.value {
+    font-size: 2rem;
+    text-align: center;
+    color: brown;
+}
+
+.nos {
+    font-size: 30px;
+    text-align: center;
+}
+
+#number {
+    font-size: 30px;
+    text-align: center;
+}
+
+.no {
+    font-size: 30px;
+    text-align: center;
+}
